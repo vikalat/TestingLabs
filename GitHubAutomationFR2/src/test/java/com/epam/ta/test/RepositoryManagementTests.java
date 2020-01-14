@@ -157,6 +157,166 @@ public class RepositoryManagementTests extends CommonConditions {
         assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
 
     }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
+    
+     @Test(description = "JIRA-7573")
+    public void Making()
+    {
+        User testUser = UserCreator.withCredentialsFromProperty();
+        String expectedRepositoryName = "Возможности покупателя";
+        String loggedInUserName = new LoginPage(driver)
+                .openPage()
+                .login(testUser)
+                .getLoggedInUserName();
+        String createdRepositoryName = new MainPage(driver)
+                .openPage()
+                .making();
+        assertThat(loggedInUserName, is(equalTo(expectedRepositoryName)));
+
+    }
 
    /* @Test(description = "JIRA-7567")
     public void newProjectsAreEmpty()
