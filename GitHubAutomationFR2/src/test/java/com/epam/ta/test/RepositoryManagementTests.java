@@ -158,8 +158,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7574")
+    public void Making1()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
@@ -174,8 +174,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7575")
+    public void Making2()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
@@ -190,8 +190,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7576")
+    public void Making3()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
@@ -206,8 +206,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7576")
+    public void Making4()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
@@ -222,8 +222,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7577")
+    public void Making5()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
@@ -238,8 +238,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7578")
+    public void Making6()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
@@ -254,8 +254,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7579")
+    public void Making7()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
@@ -270,8 +270,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7580")
+    public void Making8()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
@@ -286,8 +286,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7581")
+    public void Making9()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
@@ -302,8 +302,8 @@ public class RepositoryManagementTests extends CommonConditions {
 
     }
     
-     @Test(description = "JIRA-7573")
-    public void Making()
+     @Test(description = "JIRA-7582")
+    public void Making10()
     {
         User testUser = UserCreator.withCredentialsFromProperty();
         String expectedRepositoryName = "Возможности покупателя";
